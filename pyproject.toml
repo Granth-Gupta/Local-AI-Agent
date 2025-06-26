@@ -1,0 +1,13 @@
+[project]
+name = "local-ai-agnet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.25",
+    "langchain-chroma>=0.2.4",
+    "langchain-ollama>=0.3.3",
+    "pandas>=2.3.0",
+    "vector>=1.6.2",
+]
