@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+Enter your question (q to quit) : How is vegan
+
+
+
+The restaurant offers a vegan pizza option that has received generally positive reviews. Reviewer Document(id='7') praises their vegan cashew cheese, saying it "actually melts properly" and that their vegetable toppings are always fresh and seasonal.
+
+However, not all reviewers have been impressed with the vegan cheese. Document(id='119') gave a rating of 2 stars and stated that their vegan cheese option was "terrible", with a grainy texture and a strong coconut flavor that clashed with the tomato sauce.
+
+Overall, it seems that the restaurant's vegan options are improving, but there is still room for improvement in terms of quality.
+
+
+---------------------------------------------------------------------------
+Enter your question (q to quit) : q
